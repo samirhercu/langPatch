@@ -1,4 +1,5 @@
 # langPatch
+```
 Language patcher 0.2 - 2025
 The Lemon Man (C) and zSamyMan
 
@@ -8,7 +9,7 @@ own language. Strongly recommend using it in conjunction to the
 pergame plugin
 
 To install it just copy the langPatch.prx in the seplugins folder
-and activate it in the game section, then create a file called 
+and activate it in the game section, then create a file called
 language.txt and insert the corresponding language code
 
 0 - Japanese
